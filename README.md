@@ -21,6 +21,11 @@ This is the implementation of our paper [**Prototype-guided Salient Attention fo
 
   Please see [OSLSM](https://arxiv.org/abs/1709.03410) and [FWB](https://openaccess.thecvf.com/content_ICCV_2019/html/Nguyen_Feature_Weighting_and_Boosting_for_Few-Shot_Segmentation_ICCV_2019_paper.html) for more details on datasets. 
 
+## Model
+
+Download the pre-trained backbones from [BAM](https://github.com/chunbolang/BAM) and put them into the PSANet/initmodel directory.
+
+Download our trained base learners from [BAM](https://github.com/chunbolang/BAM) and put them under initmodel/PSPNet.
 
 ## Test and Train
 You only need to configure the relevant content in the relevant script file to run
