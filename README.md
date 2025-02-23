@@ -25,7 +25,7 @@ This is the implementation of our paper [**Prototype-guided Salient Attention fo
 
 Download the pre-trained backbones from [BAM](https://github.com/chunbolang/BAM) and put them into the PSANet/initmodel directory.
 
-Download our trained base learners from [BAM](https://github.com/chunbolang/BAM) and put them under initmodel/PSPNet.
+Download our trained base learners from [BAM](https://github.com/chunbolang/BAM) and put them under PSANet/initmodel/PSPNet.
 
 ## Test and Train
 You only need to configure the relevant content in the relevant script file to run
